@@ -1,0 +1,2 @@
+class Todoapp < ApplicationRecord
+end
